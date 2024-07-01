@@ -65,7 +65,7 @@
 <div class="bg-neutral py-1.5 text-center text-xs text-neutral-content md:text-sm">
 	<span>
 		<span class="font-semibold text-error">Wake-up</span> call!
-		<span class="font-semibold text-warning">The Kenya Robotics and AI Society Bill 2023</span>
+		<span class="font-semibold text-warning">The Kenya Robotics and AI Society Bill 2024</span>
 		is being <span class="font-semibold text-warning">discussed right now.</span> Your future is
 		being decided. <span class="font-semibold text-warning">Are you in the room?</span>
 	</span>
@@ -119,6 +119,9 @@
 			thousands of jobs. This future is within reach, but a new bill could change everything.
 		</p>
 	</div>
+	<div class="items-center justify-center w-full flex pt-8">
+		<a href="#cta" class="btn btn-primary">Create Awareness</a>
+	</div>
 </section>
 
 <!-- opportunity -->
@@ -158,11 +161,13 @@
 				Who controls your data in an AI-driven world? This bill decides
 			</p>
 		</div>
+
+		<a href="#cta" class="btn btn-primary">Create Awareness</a>
 	</div>
 </section>
 
 <!-- promise  -->
-<section class="benefit__section max-w-5xl mx-auto py-10 px-10 lg:px-0">
+<section class="benefit__section max-w-5xl mx-auto py-10 px-4 lg:px-0">
 	<div
 		class="headline__container flex flex-col gap-y-5 items-center justify-center max-w-xl mx-auto"
 	>
@@ -200,10 +205,13 @@
 			</div>
 		</section>
 	</div>
+	<div class="items-center justify-center w-full flex">
+		<a href="#cta" class="btn btn-primary">Create Awareness</a>
+	</div>
 </section>
 
 <!-- vs Reality  -->
-<section class="benefit__section max-w-5xl mx-auto py-10 px-10 lg:px-0">
+<section class="benefit__section max-w-5xl mx-auto py-10 px-4 lg:px-0">
 	<div
 		class="headline__container flex flex-col gap-y-5 items-center justify-center max-w-xl mx-auto"
 	>
@@ -284,6 +292,10 @@
 			</div>
 		</section>
 	</div>
+
+	<div class="items-center justify-center w-full flex">
+		<a href="#cta" class="btn btn-primary">Create Awareness</a>
+	</div>
 </section>
 
 <!-- testimonials -->
@@ -343,7 +355,7 @@
 
 		<div class="flex flex-row gap-4">
 			<a
-				href="https://twitter.com/intent/tweet?text=Join%20us%20in%20rejecting%20the%20Robotics%20and%20AI%20Bill%202024!&hashtags=RejectRoboticsAndAIBill2024"
+				href="https://x.com/intent/post?text=Join+us+in+rejecting+the+Robotics+and+AI+Bill+2024!&hashtags=RejectRoboticsAndAIBill2024&url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
 				class="btn btn-primary"
 				target="_blank">Share On Twitter</a
 			>
