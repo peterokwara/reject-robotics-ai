@@ -10,15 +10,15 @@ export default {
 		themes: [
 			{
 				mytheme: {
-					primary: '#6169A2',
+					primary: '#a648ce',
 
-					secondary: '#C5A0C7',
+					secondary: '#e396d9',
 
-					accent: '#B989A8',
+					accent: '#d970c4',
 
 					neutral: '#221812',
 
-					'base-100': '#F7F7FA',
+					'base-100': '#fcf8fd',
 
 					info: '#4dd4ff',
 

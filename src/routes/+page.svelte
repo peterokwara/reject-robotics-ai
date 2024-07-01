@@ -57,6 +57,92 @@
 			comments: [
 				'How comes this con man is still parading around, watu wa tech pia nyinyi mko na mchezo. Do something!'
 			]
+		},
+		{
+			user: 'JACKTONE MOMANYI',
+			handle: '@MomanyiJacktone',
+			time: '7h',
+			comments: ['Motivational speakers coming up with regulations.']
+		},
+		{
+			user: 'Sebastian Muchui',
+			handle: '@astianmuchui',
+			time: '3h',
+			comments: [
+				'How will it benefit me as robotics (or AI) hobbyist? Does that mean I cannot own a robotics kit to end my boredom during weekends? How about classwork if I study CS/Engineering?'
+			]
+		},
+		{
+			user: 'Visual Artist',
+			handle: '@nduta_samwa',
+			time: '6h',
+			comments: [
+				'We shall deal with you perpendicularly within no time. Right now our anger is somewhere else but we will remember.  I went through this bill and it disproportionately focuses on regulating the robotics sector while neglecting essential AI aspects.  Leteni number tumsalmie'
+			]
+		},
+		{
+			user: 'Mkenya',
+			handle: '@Val_Sales_Ke',
+			time: '1h',
+			comments: [
+				'Uncle Sam knows the Kenyan human labor in tech industry is valuable and cheap. You Kennedy, cannot understand why this bill will oppress us.  We will never ever get ourselves out of the mess you are advocating for.  Or even have a chance of owning our own tech innovations.'
+			]
+		},
+		{
+			user: 'Humble African',
+			handle: '@ni_vQee',
+			time: '4h',
+			comments: [
+				'In Kenya everything is an opportunity for the government to make Money and MPigs have been enabling this extortion for way too long. We are going to change this once and for all'
+			]
+		},
+		{
+			user: 'astra',
+			handle: '@cicada254',
+			time: '6h',
+			comments: [
+				'In all honesty, can you please explain how this bill will benefit anyone, anyone aside from those on fancy suits. This bill, just like the IT practitioners one before it shouldnt even be tabled for a debate by the lawmakers.'
+			]
+		},
+		{
+			user: 'Swahiliyan',
+			handle: '@Swahiliyan',
+			time: '3h',
+			comments: [
+				'This doesnt sound right, there are data protection laws, there are cyber crime laws and best practices why do you need to control AI when we havent even scratched the surface on basic cyber crime and data protection laws.'
+			]
+		},
+		{
+			user: 'Sharpest Omen',
+			handle: '@mishe067',
+			time: '59m',
+			comments: [
+				'First, stakeholders werent involved at any stage when drafting the bill. The bill only focuses on regulating the robotics industry rather than addressing pending issues so why put it in place?'
+			]
+		},
+		{
+			user: 'Epale',
+			handle: '@epalemike',
+			time: '4h',
+			comments: [
+				'Unatisha watu na mapicha hapa jomba, nothing serious. If it is punitive and meant to gatekeep AI development in the Country it isnt going anywhere. Lets wait for Parliament to resume.'
+			]
+		},
+		{
+			user: 'LastChieftain',
+			handle: '@MutantXperience',
+			time: '7h',
+			comments: [
+				'Was there any meaningful public participation before you fraudsters took it to parliament?#RejectAIRoboticsBill2023'
+			]
+		},
+		{
+			user: 'Sikuoni',
+			handle: '@sikuoni',
+			time: '4h',
+			comments: [
+				'If there is something called greed, this is it. You guys are basically trying to gatekeep and own this space. Hii ni ulafi tu, and deep down you guys know so.... Si hata you build some commercial ML / AI tools and take to marklet badala ya kujaribu kupolice other people?'
+			]
 		}
 	];
 </script>
