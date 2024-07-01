@@ -147,6 +147,33 @@
 	];
 </script>
 
+<svelte:head>
+	<!-- Primary Tags -->
+	<title>Reject The Robotics And AI Bill</title>
+	<meta name="title" content="Reject The Robotics And AI Bill" />
+	<meta name="description" content="Keep Technology Open for Everyone" />
+
+	<!-- Twitter -->
+	<meta property="twitter:title" content="Reject The Robotics And AI Bill" />
+	<meta property="twitter:description" content="Keep Technology Open for Everyone" />
+	<meta
+		property="twitter:image"
+		content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg"
+	/>
+	<meta property="twitter:url" content="https://reject-robotics-ai.vercel.app" />
+	<meta property="twitter:card" content="summary_large_image" />
+
+	<!-- Facebook -->
+	<meta property="og:title" content="Reject The Robotics And AI Bill" />
+	<meta property="og:description" content="Keep Technology Open for Everyone" />
+	<meta property="og:url" content="https://reject-robotics-ai.vercel.app" />
+	<meta
+		property="og:image"
+		content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg"
+	/>
+	<meta property="og:type" content="website" />
+</svelte:head>
+
 <!-- top bar -->
 <div class="bg-neutral py-1.5 text-center text-xs text-neutral-content md:text-sm">
 	<span>
@@ -158,7 +185,7 @@
 </div>
 
 <!-- hero section -->
-<section class="hero relative isolate">
+<section class="relative hero isolate">
 	<div
 		class="w-48 h-48 left-10 top-10 absolute -z-10 bg-red-400 bg-opacity-90 rounded-full blur-[300px]"
 	/>
@@ -166,22 +193,22 @@
 		class="w-72 h-72 left-20 top-20 absolute -z-10 bg-blue-400 bg-opacity-90 rounded-full blur-[300px]"
 	/>
 	<div
-		class="hero__container max-w-5xl px-5 lg:px-10 mx-auto flex flex-col gap-y-10 items-center justify-between py-10 lg:py-24"
+		class="flex flex-col items-center justify-between max-w-5xl px-5 py-10 mx-auto hero__container lg:px-10 gap-y-10 lg:py-24"
 	>
 		<div class="hero-content flex items-center justify-center flex-col gap-y-3.5 w-full">
 			<h2
-				class="text-3xl md:text-4xl lg:text-5xl xl:text-6xl relative font-black max-w- md:max-w-2xl lg:max-w-3xl mx-auto text-center text-zinc-800"
+				class="relative mx-auto text-3xl font-black text-center md:text-4xl lg:text-5xl xl:text-6xl max-w- md:max-w-2xl lg:max-w-3xl text-zinc-800"
 			>
 				Shape Kenya's Tech Future: Your Voice Matters!
 			</h2>
 			<p
-				class="font-medium text-center lg:text-left max-w-xs mx-auto lg:max-w-full text-base lg:text-lg"
+				class="max-w-xs mx-auto text-base font-medium text-center lg:text-left lg:max-w-full lg:text-lg"
 			>
 				The Robotics and AI Bill is here. Are you ready for it?
 			</p>
 			<a href="#cta" class="btn btn-primary">Create Awareness</a>
 
-			<div class="pt-5 flex items-center jus flex-col gap-y-2 relative">
+			<div class="relative flex flex-col items-center pt-5 jus gap-y-2">
 				<div class="absolute -left-5 top-10">
 					<!-- <img src={arrow} alt="" /> -->
 				</div>
@@ -193,57 +220,57 @@
 </section>
 
 <!-- imagine -->
-<section class="benefit__section max-w-5xl mx-auto py-10 px-10 lg:px-0">
+<section class="max-w-5xl px-10 py-10 mx-auto benefit__section lg:px-0">
 	<div
-		class="headline__container flex flex-col gap-y-5 items-center justify-center max-w-xl mx-auto"
+		class="flex flex-col items-center justify-center max-w-xl mx-auto headline__container gap-y-5"
 	>
-		<h2 class="text-2xl md:text-3xl lg:text-5xl text-center font-bold">
+		<h2 class="text-2xl font-bold text-center md:text-3xl lg:text-5xl">
 			<span class="text-primary">Imagine</span> a Kenya...
 		</h2>
-		<p class="text-center text-sm md:text-base lg:text-lg font-medium">
+		<p class="text-sm font-medium text-center md:text-base lg:text-lg">
 			Where robots assist in healthcare, AI boosts crop yields, and tech innovation creates
 			thousands of jobs. This future is within reach, but a new bill could change everything.
 		</p>
 	</div>
-	<div class="items-center justify-center w-full flex pt-8">
+	<div class="flex items-center justify-center w-full pt-8">
 		<a href="#cta" class="btn btn-primary">Create Awareness</a>
 	</div>
 </section>
 
 <!-- opportunity -->
-<section class="benefit__section max-w-5xl mx-auto py-10 px-10 lg:px-0">
+<section class="max-w-5xl px-10 py-10 mx-auto benefit__section lg:px-0">
 	<div
-		class="headline__container flex flex-col gap-y-5 items-center justify-center max-w-xl mx-auto"
+		class="flex flex-col items-center justify-center max-w-xl mx-auto headline__container gap-y-5"
 	>
-		<h2 class="text-2xl md:text-3xl lg:text-5xl text-center font-bold">
+		<h2 class="text-2xl font-bold text-center md:text-3xl lg:text-5xl">
 			The <span class="text-primary">Stakes</span> Are <span class="text-primary">High</span>
 		</h2>
 	</div>
-	<div class="flex flex-col max-w-xl mx-auto items-center justify-center gap-y-5 py-10">
-		<div class="flex flex-col md:flex-row gap-y-5 items-center justify-center gap-x-5 w-full">
+	<div class="flex flex-col items-center justify-center max-w-xl py-10 mx-auto gap-y-5">
+		<div class="flex flex-col items-center justify-center w-full md:flex-row gap-y-5 gap-x-5">
 			<div
-				class="flex flex-col items-center justify-center gap-y-2 border rounded-lg p-5 py-10 w-full lg:w-1/2"
+				class="flex flex-col items-center justify-center w-full p-5 py-10 border rounded-lg gap-y-2 lg:w-1/2"
 			>
-				<p class="font-semibold text-4xl lg:text-5xl text-primary">133 M</p>
-				<p class="text-base lg:text-lg font-medium">
+				<p class="text-4xl font-semibold lg:text-5xl text-primary">133 M</p>
+				<p class="text-base font-medium lg:text-lg">
 					AI could create 133 million new roles by 2025. Will Kenya be ready?
 				</p>
 			</div>
 			<div
-				class="flex flex-col items-center justify-center gap-y-2 border rounded-lg p-5 py-10 w-full lg:w-1/2"
+				class="flex flex-col items-center justify-center w-full p-5 py-10 border rounded-lg gap-y-2 lg:w-1/2"
 			>
-				<p class="font-semibold text-4xl lg:text-5xl text-primary">Millions</p>
-				<p class="text-base lg:text-lg font-medium">
+				<p class="text-4xl font-semibold lg:text-5xl text-primary">Millions</p>
+				<p class="text-base font-medium lg:text-lg">
 					AI diagnostics could save millions of lives. But only if we get the regulations right.
 				</p>
 			</div>
 		</div>
 		<div
-			class="flex flex-col items-center justify-center gap-y-2 w-full rounded-lg border p-5 py-10"
+			class="flex flex-col items-center justify-center w-full p-5 py-10 border rounded-lg gap-y-2"
 		>
-			<p class="font-semibold text-4xl lg:text-5xl text-primary">Privacy</p>
+			<p class="text-4xl font-semibold lg:text-5xl text-primary">Privacy</p>
 
-			<p class="text-base md:text-xl xl:text-2xl font-semibold max-w-sm xl:max-w-md text-center">
+			<p class="max-w-sm text-base font-semibold text-center md:text-xl xl:text-2xl xl:max-w-md">
 				Who controls your data in an AI-driven world? This bill decides
 			</p>
 		</div>
@@ -253,23 +280,23 @@
 </section>
 
 <!-- promise  -->
-<section class="benefit__section max-w-5xl mx-auto py-10 px-4 lg:px-0">
+<section class="max-w-5xl px-4 py-10 mx-auto benefit__section lg:px-0">
 	<div
-		class="headline__container flex flex-col gap-y-5 items-center justify-center max-w-xl mx-auto"
+		class="flex flex-col items-center justify-center max-w-xl mx-auto headline__container gap-y-5"
 	>
-		<h2 class="text-2xl md:text-3xl lg:text-5xl text-center font-bold">
+		<h2 class="text-2xl font-bold text-center md:text-3xl lg:text-5xl">
 			The <span class="text-primary">Promise</span>
 		</h2>
 	</div>
-	<div class="flex flex-col max-w-xl mx-auto items-center justify-center gap-y-5 py-4">
-		<section class="feature__section max-w-5xl mx-auto">
-			<div class="features-card grid px-10 lg:px-14 xl:px-2 grid-cols-1 gap-10 py-4 lg:py-20">
+	<div class="flex flex-col items-center justify-center max-w-xl py-4 mx-auto gap-y-5">
+		<section class="max-w-5xl mx-auto feature__section">
+			<div class="grid grid-cols-1 gap-10 px-10 py-4 features-card lg:px-14 xl:px-2 lg:py-20">
 				<div
 					class="features-card-box bg-[#E3F9E5] border border-green-300/50 rounded-xl p-6 flex flex-col gap-y-6"
 				>
-					<div class="card-content flex flex-col gap-y-2">
+					<div class="flex flex-col card-content gap-y-2">
 						<p class="text-xl">🤞</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">
+						<h3 class="text-xl font-semibold lg:text-2xl">
 							A framework for responsible AI development in Kenya.
 						</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
@@ -291,29 +318,29 @@
 			</div>
 		</section>
 	</div>
-	<div class="items-center justify-center w-full flex">
+	<div class="flex items-center justify-center w-full">
 		<a href="#cta" class="btn btn-primary">Create Awareness</a>
 	</div>
 </section>
 
 <!-- vs Reality  -->
-<section class="benefit__section max-w-5xl mx-auto py-10 px-4 lg:px-0">
+<section class="max-w-5xl px-4 py-10 mx-auto benefit__section lg:px-0">
 	<div
-		class="headline__container flex flex-col gap-y-5 items-center justify-center max-w-xl mx-auto"
+		class="flex flex-col items-center justify-center max-w-xl mx-auto headline__container gap-y-5"
 	>
-		<h2 class="text-2xl md:text-3xl lg:text-5xl text-center font-bold">
+		<h2 class="text-2xl font-bold text-center md:text-3xl lg:text-5xl">
 			vs <span class="text-primary">Reality</span>
 		</h2>
 	</div>
-	<div class="flex flex-col max-w-xl mx-auto items-center justify-center gap-y-5 py-10">
-		<section class="feature__section max-w-5xl mx-auto">
-			<div class="features-card grid px-10 lg:px-14 xl:px-2 grid-cols-1 gap-10 py-4 lg:py-20">
+	<div class="flex flex-col items-center justify-center max-w-xl py-10 mx-auto gap-y-5">
+		<section class="max-w-5xl mx-auto feature__section">
+			<div class="grid grid-cols-1 gap-10 px-10 py-4 features-card lg:px-14 xl:px-2 lg:py-20">
 				<div
 					class="features-card-box bg-[#FFF1EE] border border-orange-300/50 rounded-xl p-6 flex flex-col gap-y-6"
 				>
-					<div class="card-content flex flex-col gap-y-2">
+					<div class="flex flex-col card-content gap-y-2">
 						<p class="text-xl">📜</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">Too many rules slow down new ideas</h3>
+						<h3 class="text-xl font-semibold lg:text-2xl">Too many rules slow down new ideas</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
 							Having too many rules and paperwork makes it hard for companies to create new things
 							quickly. We should make the process simpler while still keeping things safe and fair.
@@ -324,9 +351,9 @@
 				<div
 					class="features-card-box bg-[#FFF1EE] border border-orange-300/50 rounded-xl p-6 flex flex-col gap-y-6"
 				>
-					<div class="card-content flex flex-col gap-y-2">
+					<div class="flex flex-col card-content gap-y-2">
 						<p class="text-xl">🤷</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">Unclear rules cause unfair treatment</h3>
+						<h3 class="text-xl font-semibold lg:text-2xl">Unclear rules cause unfair treatment</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
 							When laws are not clear, they can be used differently for different people or
 							companies. This isn't fair. Some might get in trouble while others find ways around
@@ -337,9 +364,9 @@
 				<div
 					class="features-card-box bg-[#FFF1EE] border border-orange-300/50 rounded-xl p-6 flex flex-col gap-y-6"
 				>
-					<div class="card-content flex flex-col gap-y-2">
+					<div class="flex flex-col card-content gap-y-2">
 						<p class="text-xl">💸</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">Yearly fees hurt small new companies</h3>
+						<h3 class="text-xl font-semibold lg:text-2xl">Yearly fees hurt small new companies</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
 							Making small, new companies pay for licenses every year can be too expensive for them.
 							This might stop them from trying new ideas. We should make it easier and cheaper for
@@ -350,9 +377,9 @@
 				<div
 					class="features-card-box bg-[#FFF1EE] border border-orange-300/50 rounded-xl p-6 flex flex-col gap-y-6"
 				>
-					<div class="card-content flex flex-col gap-y-2">
+					<div class="flex flex-col card-content gap-y-2">
 						<p class="text-xl">❓</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">
+						<h3 class="text-xl font-semibold lg:text-2xl">
 							Not knowing what's expected causes worry
 						</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
@@ -367,24 +394,24 @@
 		</section>
 	</div>
 
-	<div class="items-center justify-center w-full flex">
+	<div class="flex items-center justify-center w-full">
 		<a href="#cta" class="btn btn-primary">Create Awareness</a>
 	</div>
 </section>
 
 <!-- testimonials -->
-<div class=" py-24 sm:py-32">
-	<div class="mx-auto max-w-7xl px-6 lg:px-8">
-		<div class="mx-auto max-w-xl text-center">
+<div class="py-24 sm:py-32">
+	<div class="px-6 mx-auto max-w-7xl lg:px-8">
+		<div class="max-w-xl mx-auto text-center">
 			<p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
 				<span class="text-primary">You</span> Are Not <span class="text-primary">Alone</span>
 			</p>
 		</div>
-		<div class="mx-auto mt-16 flow-root max-w-2xl sm:mt-20 lg:mx-0 lg:max-w-none">
+		<div class="flow-root max-w-2xl mx-auto mt-16 sm:mt-20 lg:mx-0 lg:max-w-none">
 			<div class="-mt-8 sm:-mx-4 sm:columns-2 sm:text-[0] lg:columns-3">
 				{#each testimonials as testimonial}
 					<div class="pt-8 sm:inline-block sm:w-full sm:px-4">
-						<figure class="rounded-2xl bg-gray-200 p-8 text-sm leading-6">
+						<figure class="p-8 text-sm leading-6 bg-gray-200 rounded-2xl">
 							<blockquote class="text-gray-900">
 								{#each testimonial.comments as comment}
 									<p>
@@ -392,11 +419,11 @@
 									</p>
 								{/each}
 							</blockquote>
-							<figcaption class="mt-6 flex items-center gap-x-4">
+							<figcaption class="flex items-center mt-6 gap-x-4">
 								<!-- <img
-									class="h-10 w-10 rounded-full bg-gray-50"
-									src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-									alt=""
+									class="w-10 h-10 rounded-full bg-gray-50"
+									src={`https://x.com/${testimonial.handle.substring(1)}/photo`}
+									alt={`${testimonial.user}'s Twitter profile picture`}
 								/> -->
 								<div>
 									<div class="font-semibold text-gray-900">{testimonial.user}</div>
@@ -413,15 +440,15 @@
 </div>
 
 <!-- cta -->
-<section class="cta__section max-w-5xl mx-auto py-14 lg:pb-20 px-5 lg:px-0" id="cta">
-	<div class="rounded-2xl mx-auto flex flex-col gap-y-5 justify-center items-center">
+<section class="max-w-5xl px-5 mx-auto cta__section py-14 lg:pb-20 lg:px-0" id="cta">
+	<div class="flex flex-col items-center justify-center mx-auto rounded-2xl gap-y-5">
 		<h3
-			class="text-3xl md:text-4xl lg:text-5xl max-w-xl lg:max-w-3xl mx-auto font-bold text-black text-center"
+			class="max-w-xl mx-auto text-3xl font-bold text-center text-black md:text-4xl lg:text-5xl lg:max-w-3xl"
 		>
 			<span class="text-primary">Your Move</span>
 			Be Part of the Solution
 		</h3>
-		<p class="text-center text-sm md:text-base lg:text-lg font-medium">
+		<p class="text-sm font-medium text-center md:text-base lg:text-lg">
 			The future of Kenyan tech is being written. Will you let others decide for you?
 		</p>
 
