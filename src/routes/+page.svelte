@@ -313,14 +313,11 @@
 				>
 					<div class="card-content flex flex-col gap-y-2">
 						<p class="text-xl">📜</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">
-							Excessive bureaucracy stifling innovation
-						</h3>
+						<h3 class="text-xl lg:text-2xl font-semibold">Too many rules slow down new ideas</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
-							Excessive bureaucratic processes and red tape can slow down the pace of innovation and
-							make it difficult for companies to bring new technologies to market. Streamlining
-							regulatory processes and reducing unnecessary paperwork can help foster a more dynamic
-							and innovative environment while still ensuring safety and ethical standards are met.
+							Having too many rules and paperwork makes it hard for companies to create new things
+							quickly. We should make the process simpler while still keeping things safe and fair.
+							This will help new ideas grow faster.
 						</p>
 					</div>
 				</div>
@@ -329,15 +326,11 @@
 				>
 					<div class="card-content flex flex-col gap-y-2">
 						<p class="text-xl">🤷</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">
-							Vague definitions leading to unfair application
-						</h3>
+						<h3 class="text-xl lg:text-2xl font-semibold">Unclear rules cause unfair treatment</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
-							Legislation with vague or broad definitions can lead to inconsistent application and
-							enforcement, creating an uneven playing field. This lack of clarity can result in some
-							entities being unfairly penalized while others may exploit loopholes. It is crucial
-							that the bill includes precise definitions to ensure fair and uniform application
-							across the industry.
+							When laws are not clear, they can be used differently for different people or
+							companies. This isn't fair. Some might get in trouble while others find ways around
+							the rules. We need clear rules so everyone is treated the same way.
 						</p>
 					</div>
 				</div>
@@ -346,15 +339,11 @@
 				>
 					<div class="card-content flex flex-col gap-y-2">
 						<p class="text-xl">💸</p>
-						<h3 class="text-xl lg:text-2xl font-semibold">
-							Yearly licensing burdening small startups
-						</h3>
+						<h3 class="text-xl lg:text-2xl font-semibold">Yearly fees hurt small new companies</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
-							Requiring annual licenses for AI and robotics development could place a significant
-							financial and administrative burden on small startups. This could discourage
-							innovation and entrepreneurship, as smaller companies may not have the resources to
-							meet these ongoing requirements. Instead, a more flexible licensing approach or
-							reduced fees for startups might encourage more participation in the AI sector.
+							Making small, new companies pay for licenses every year can be too expensive for them.
+							This might stop them from trying new ideas. We should make it easier and cheaper for
+							these small companies to join in and create new things.
 						</p>
 					</div>
 				</div>
@@ -364,14 +353,13 @@
 					<div class="card-content flex flex-col gap-y-2">
 						<p class="text-xl">❓</p>
 						<h3 class="text-xl lg:text-2xl font-semibold">
-							Lack of clear standards creating uncertainty
+							Not knowing what's expected causes worry
 						</h3>
 						<p class="text-base text-[#7c7c7c] font-medium">
-							Without clear and precise standards, businesses and developers may face uncertainty
-							about compliance requirements, which can hinder innovation and investment. Clear
-							guidelines are essential to ensure that stakeholders understand what is expected and
-							can develop technologies that meet these standards without fear of arbitrary
-							enforcement or penalties.
+							When companies don't know exactly what rules to follow, they might be afraid to try
+							new things. We need to make clear guidelines so everyone knows what's expected. This
+							will help companies create new technology without worrying about getting in trouble
+							unfairly.
 						</p>
 					</div>
 				</div>
