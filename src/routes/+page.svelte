@@ -149,12 +149,12 @@
 
 <svelte:head>
 	<!-- Primary Tags -->
-	<title>Reject The Robotics And AI Bill</title>
-	<meta name="title" content="Reject The Robotics And AI Bill" />
+	<title>Reject The Robotics And AI Bill 2024</title>
+	<meta name="title" content="Reject The Robotics And AI Bill 2024" />
 	<meta name="description" content="Keep Technology Open for Everyone" />
 
 	<!-- Twitter -->
-	<meta property="twitter:title" content="Reject The Robotics And AI Bill" />
+	<meta property="twitter:title" content="Reject The Robotics And AI Bill 2024" />
 	<meta property="twitter:description" content="Keep Technology Open for Everyone" />
 	<meta
 		property="twitter:image"
@@ -164,7 +164,7 @@
 	<meta property="twitter:card" content="summary_large_image" />
 
 	<!-- Facebook -->
-	<meta property="og:title" content="Reject The Robotics And AI Bill" />
+	<meta property="og:title" content="Reject The Robotics And AI Bill 2024" />
 	<meta property="og:description" content="Keep Technology Open for Everyone" />
 	<meta property="og:url" content="https://reject-robotics-ai.vercel.app" />
 	<meta
