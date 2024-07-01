@@ -337,7 +337,6 @@
 		</h3>
 		<p class="text-center text-sm md:text-base lg:text-lg font-medium">
 			The future of Kenyan tech is being written. Will you let others decide for you?
-            
 		</p>
 
 		<p class="text-3xl lg:text-4xl">👇</p>
