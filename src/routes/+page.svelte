@@ -238,7 +238,7 @@
 </section>
 
 <!-- opportunity -->
-<section class="max-w-5xl px-10 py-10 mx-auto benefit__section lg:px-0">
+<!-- <section class="max-w-5xl px-10 py-10 mx-auto benefit__section lg:px-0">
 	<div
 		class="flex flex-col items-center justify-center max-w-xl mx-auto headline__container gap-y-5"
 	>
@@ -277,7 +277,7 @@
 
 		<a href="#cta" class="btn btn-primary">Create Awareness</a>
 	</div>
-</section>
+</section> -->
 
 <!-- promise  -->
 <section class="max-w-5xl px-4 py-10 mx-auto benefit__section lg:px-0">
