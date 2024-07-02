@@ -469,6 +469,11 @@
 			>
 				Share On LinkedIn
 			</a>
+
+			<a href="https://www.youtube.com/watch?v=rxz1AlMfv00" class="btn btn-primary">
+				Pannel Discussion With AI Kenya
+			</a>
+
 			<a
 				href="https://docs.google.com/document/d/16vyCQVNbOZzlyN8PvnfF9B8JroeAxBMv/edit?usp=sharing&ouid=113687490993866143845&rtpof=true&sd=true"
 				class="btn btn-primary">Read the bill</a
