@@ -456,10 +456,12 @@
 
 		<div class="flex flex-row gap-4">
 			<a
-				href="https://x.com/intent/post?text=Join+us+in+rejecting+the+Robotics+and+AI+Bill+2024!&hashtags=RejectRoboticsAndAIBill2024&url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
+				href="https://x.com/intent/post?text=Join+us+in+rejecting+the+Robotics+and+AI+Bill+2024+created+by+@fsagwe+@KenyaRobotics+@kennedykwangari!&hashtags=RejectRoboticsAndAIBill2024&url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
 				class="btn btn-primary"
-				target="_blank">Share On Twitter</a
+				target="_blank"
 			>
+				Share On Twitter
+			</a>
 			<a
 				href="https://docs.google.com/document/d/16vyCQVNbOZzlyN8PvnfF9B8JroeAxBMv/edit?usp=sharing&ouid=113687490993866143845&rtpof=true&sd=true"
 				class="btn btn-primary">Read the bill</a
