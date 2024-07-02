@@ -171,6 +171,12 @@
 		property="og:image"
 		content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg"
 	/>
+
+	<!-- Image -->
+	<meta property="og:image" content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="575" />
+
 	<meta property="og:type" content="website" />
 </svelte:head>
 
