@@ -145,38 +145,31 @@
 			]
 		}
 	];
+
+	const title = 'Reject The Robotics And AI Bill 2024';
+	const description = 'Keep Technology Open for Everyone';
+	const ogImage = 'https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg';
+	const url = 'https://reject-robotics-ai.vercel.app';
 </script>
 
 <svelte:head>
-	<!-- Primary Tags -->
-	<title>Reject The Robotics And AI Bill 2024</title>
-	<meta name="title" content="Reject The Robotics And AI Bill 2024" />
-	<meta name="description" content="Keep Technology Open for Everyone" />
-
-	<!-- Twitter -->
-	<meta property="twitter:title" content="Reject The Robotics And AI Bill 2024" />
-	<meta property="twitter:description" content="Keep Technology Open for Everyone" />
-	<meta
-		property="twitter:image"
-		content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg"
-	/>
-	<meta property="twitter:url" content="https://reject-robotics-ai.vercel.app" />
-	<meta property="twitter:card" content="summary_large_image" />
-
-	<!-- Facebook -->
-	<meta property="og:title" content="Reject The Robotics And AI Bill 2024" />
-	<meta property="og:description" content="Keep Technology Open for Everyone" />
-	<meta property="og:url" content="https://reject-robotics-ai.vercel.app" />
-	<meta
-		property="og:image"
-		content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg"
-	/>
-
+	<!-- Titles -->
+	<title>{title}</title>
+	<meta property="og:title" content={title} />
+	<meta name="twitter:title" content={title} />
+	<!-- Description -->
+	<meta name="description" content={description} />
+	<meta property="og:description" content={description} />
+	<meta name="twitter:description" content={description} />
 	<!-- Image -->
-	<meta property="og:image" content="https://reject-robotics-ai.vercel.app/images/open-graph/website.jpg" />
+	<meta property="og:image" content={ogImage} />
 	<meta property="og:image:width" content="1024" />
 	<meta property="og:image:height" content="575" />
-
+	<meta name="twitter:image" content={ogImage} />
+	<meta name="twitter:card" content="summary_large_image" />
+	<!-- URL -->
+	<meta property="og:url" content={url} />
+	<!-- Type -->
 	<meta property="og:type" content="website" />
 </svelte:head>
 
