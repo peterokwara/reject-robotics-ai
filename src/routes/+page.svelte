@@ -454,7 +454,7 @@
 
 		<p class="text-3xl lg:text-4xl">👇</p>
 
-		<div class="flex flex-row gap-4">
+		<div class="flex flex-col gap-4 lg:flex-row">
 			<a
 				href="https://x.com/intent/post?text=Join+us+in+rejecting+the+Robotics+and+AI+Bill+2024+created+by+@fsagwe+@KenyaRobotics+@kennedykwangari!&hashtags=RejectRoboticsAndAIBill2024&url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
 				class="btn btn-primary"
