@@ -463,6 +463,14 @@
 				Share On Twitter
 			</a>
 			<a
+				href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
+				class="btn btn-primary"
+				target="_blank"
+				rel="noopener noreferrer"
+			>
+				Share On LinkedIn
+			</a>
+			<a
 				href="https://docs.google.com/document/d/16vyCQVNbOZzlyN8PvnfF9B8JroeAxBMv/edit?usp=sharing&ouid=113687490993866143845&rtpof=true&sd=true"
 				class="btn btn-primary">Read the bill</a
 			>
